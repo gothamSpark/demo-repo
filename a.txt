@@ -1,1 +1,2 @@
 first line in a.txt
+this is line 2 in a.txt
